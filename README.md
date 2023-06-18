@@ -1,2 +1,2 @@
 # BuscarCep
-Sistema de buscar cep feito com Java Se consumindo api
+Sistema de buscar Cep feito com Java SE consumindo api
